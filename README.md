@@ -22,6 +22,11 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
+[Using Switch to redirect a lost user in React](https://medium.com/@jeffm.adler/using-switch-and-react-router-to-create-a-catch-all-404-message-e6c5ac760152)
+[Modeling multiply-linked tables in Rails](https://medium.com/@jeffm.adler/modeling-multiply-linked-tables-in-rails-with-source-b3b0137d0179)
+[Symmetrical self-joins in Ruby](https://medium.com/@jeffm.adler/using-symmetrical-self-joins-in-ruby-to-build-a-thesaurus-f3760167d00e)
+
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
@@ -37,5 +42,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeff-adler&show_icons=true" alt="jeff-adler" /></p>
 
-Huge shout-outs to <a href="https://github.com/gautamkrishnar" target="_blank">
-Gautam krishna R</a> for his amazing <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Github Profile README Generator!</a>
+- Huge shout-outs to <a href="https://github.com/gautamkrishnar" target="_blank">
+  Gautam krishna R</a> for his amazing <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Github Profile README Generator</a>!
