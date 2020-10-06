@@ -1,5 +1,5 @@
-<h1 align="center">Welcome! 👋, I'm Jeff Adler</h1>
-<h3 align="center">A full stack web developer primarily working in Javascript and React, and Ruby on Rails. I I build apps that people love with code that people can read!</h3>
+<h1 align="center">Welcome! I'm Jeff Adler 👋,</h1>
+<h3 align="center">Full stack web developer primarily working in Javascript, React, and Ruby on Rails. I build apps that people love with code that people understand!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeff-adler" alt="jeff-adler" /> </p>
 
