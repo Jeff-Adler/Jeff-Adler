@@ -7,20 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [https://www.jeff-adler.com/](https://www.jeff-adler.com/)
 
-- 🔭 I’m currently working on an app to put mentorship in the palm of your hands through a swipe-based mobile app [MentorMe.](https://github.com/Jeff-Adler/mentorMe-frontend). [Video Walkthrough](https://www.jeff-adler.com/project/2020-10-05-mentorme)
+- 🔭 I’m currently working on an app to put mentorship in the palm of your hands through a swipe-based mobile app [MentorMe.](https://www.jeff-adler.com/project/2020-10-05-mentorme)
 
-- 👯 I’m always looking to collaborate on any new opportunities for collaboration and feedback on any of my work, so please reach out! I'm especially interested in any ideas for better, more democratic social media applications. Here is a forum-based app I built to provide a digital outlet for discussion of mental health questions and concerns: [feelingsOverflow](https://github.com/Jeff-Adler/feelingsOverflow-front-end)
-  [Video Walkthrough](https://www.jeff-adler.com/project/2020-09-13-feelingsoverflow)
+- 👯 I’m always on the lookout for opportunities for collaboration! I'm especially interested in any ideas for better, more democratic social media applications. Check out an app I built to provide a digital outlet to discuss mental health questions and concerns: [feelingsOverflow](https://www.jeff-adler.com/project/2020-09-13-feelingsoverflow).
 
 <h3 align="center">Developer Outreach</h3>
 
 - 📝 I write dev-related articles at [https://medium.com/@jeffm.adler](https://medium.com/@jeffm.adler)
 
-- 💬 Ask me about **React, React Native, Ruby, Rails**.
-
-- 🤓 Check out my repo for quickly starting a React Native project with nested navigators: [React Native Nested Navigators Starter Pack](https://github.com/Jeff-Adler/react-native-navigation-example)
-
-- 📫 Reach me at: **JeffM.Adler@gmail.com**
+- 🤓 I also built repo for quickly starting a React Native project with nested navigators: [React Native Nested Navigators Starter Pack](https://github.com/Jeff-Adler/react-native-navigation-example)
 
 ### Blogs posts
 
@@ -31,6 +26,7 @@
 <h3 align="left">Connect with me:</h3>
 <a href="https://linkedin.com/in/jeff-adler-8a5400157/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="jeff-adler-8a5400157/" height="30" width="40" /></a>
 <a href="https://medium.com/@jeffm.adler" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@jeffm.adler" height="30" width="40" /></a>
+📫  **JeffM.Adler@gmail.com**
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
