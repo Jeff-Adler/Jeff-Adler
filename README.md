@@ -36,3 +36,6 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jeff-adler&layout=compact" alt="jeff-adler" /></p> </br>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jeff-adler&show_icons=true" alt="jeff-adler" /></p>
+
+Huge shout-outs to <a href="https://github.com/gautamkrishnar" target="_blank">
+Gautam krishna R</a> for his amazing <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/" target="_blank">Github Profile README Generator!</a>
