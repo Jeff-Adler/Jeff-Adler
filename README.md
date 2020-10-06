@@ -1,7 +1,15 @@
-### Hi there 👋
+### Welcome 👋
 
-<!--
-**Jeff-Adler/Jeff-Adler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Jeff Adler, a full stack web developer with a passion for innovation and eye for value creation! Most of apps are written in Javascript and React, and Ruby on Rails. I am committed to writing code that communicates its function, to continually testing, optimizing, and iterating the apps I writ, and to creating technology that people love!
+
+- 🔭 I’m currently working on an app to put mentorship in the palm of your hands through a swipe-based mobile app MentorMe. 
+Check out the walkthrough: https://www.jeff-adler.com/project/2020-10-05-mentorme and repo: https://github.com/Jeff-Adler/mentorMe-frontend
+
+I'm always on the lookout for new opportunities for collaboration and feedback on any of my work, so please reach out!
+
+Other digital spaces where you can find me:
+
+
 
 Here are some ideas to get you started:
 
