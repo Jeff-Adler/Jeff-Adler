@@ -1,5 +1,5 @@
-<h1 align="center">Welcome! I'm Jeff Adler 👋,</h1>
-<h3 align="center">Full stack web developer primarily working in Javascript, React, and Ruby on Rails. I build apps that people love with code that people understand!</h3>
+<h1 align="center">Welcome! I'm Jeff Adler 👋 </h1>
+<h3 align="center">Full stack web developer building apps that people love with code that people understand!</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jeff-adler" alt="jeff-adler" /> </p>
 
@@ -13,7 +13,7 @@
 
 - 📝 I regulary write articles on [https://medium.com/@jeffm.adler](https://medium.com/@jeffm.adler)
 
-- 💬 Ask me about **React, React Native, Rails**
+- 💬 Ask me about **React, React Native, Ruby, Rails**
 
 - 📫 How to reach me **JeffM.Adler@gmail.com**
 
