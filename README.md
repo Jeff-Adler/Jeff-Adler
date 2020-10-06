@@ -7,15 +7,15 @@
 
 - 👨‍💻 All of my projects are available at [https://www.jeff-adler.com/](https://www.jeff-adler.com/)
 
-- 🔭 I’m currently working on an app to put mentorship in the palm of your hands through a swipe-based mobile app [MentorMe.](https://www.jeff-adler.com/project/2020-10-05-mentorme)
+- 📱 I’m currently working on an app to put mentorship in the palm of your hands through a swipe-based mobile app [MentorMe.](https://www.jeff-adler.com/project/2020-10-05-mentorme)
 
-- 👯 I’m always on the lookout for opportunities for collaboration! I'm especially interested in any ideas for better, more democratic social media applications. Check out an app I built to provide a digital outlet to discuss mental health concerns: [feelingsOverflow](https://www.jeff-adler.com/project/2020-09-13-feelingsoverflow).
+- 🙏 I’m always on the lookout for opportunities for collaboration! I'm especially interested in any ideas for better, more democratic social media applications. Check out an app I built to provide a digital outlet to discuss mental health concerns: [feelingsOverflow](https://www.jeff-adler.com/project/2020-09-13-feelingsoverflow).
 
 <h3 align="center">Developer Outreach</h3>
 
-- 📝 I write dev-related articles at [https://medium.com/@jeffm.adler](https://medium.com/@jeffm.adler)
+- 🤓 I write dev-related articles at [https://medium.com/@jeffm.adler](https://medium.com/@jeffm.adler)
 
-- 🤓 I also built repo for quickly starting a React Native project with nested navigators: [React Native Nested Navigators Starter Pack](https://github.com/Jeff-Adler/react-native-navigation-example)
+- 🚄 I also built repo for quickly starting a React Native project with nested navigators: [React Native Nested Navigators Starter Pack](https://github.com/Jeff-Adler/react-native-navigation-example)
 
 - 📫 Reach me at: **JeffM.Adler@gmail.com**
 
