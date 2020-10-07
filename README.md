@@ -22,12 +22,10 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
-
-- [Using Switch to redirect a lost user in React](https://medium.com/@jeffm.adler/using-switch-and-react-router-to-create-a-catch-all-404-message-e6c5ac760152)
-- [Modeling multiply-linked tables in Rails](https://medium.com/@jeffm.adler/modeling-multiply-linked-tables-in-rails-with-source-b3b0137d0179)
-- [Symmetrical self-joins in Ruby](https://medium.com/@jeffm.adler/using-symmetrical-self-joins-in-ruby-to-build-a-thesaurus-f3760167d00e)
-- [Inheriting class variables in Ruby](https://medium.com/@jeffm.adler/inheriting-class-variables-in-ruby-971f8f977884)
-
+- [Modeling multiply-linked tables in Rails with :source](https://medium.com/@jeffm.adler/modeling-multiply-linked-tables-in-rails-with-source-b3b0137d0179?source=rss-fd1089d8862------2)
+- [Nested attributes, fields_for, and datalists in Rails](https://medium.com/@jeffm.adler/nested-attributes-fields-for-and-datalists-in-rails-4838204556ff?source=rss-fd1089d8862------2)
+- [Using symmetrical self-joins in Ruby to build a thesaurus!](https://medium.com/@jeffm.adler/using-symmetrical-self-joins-in-ruby-to-build-a-thesaurus-f3760167d00e?source=rss-fd1089d8862------2)
+- [Introducing: Midnight Commander (with added Enter key functionality!)](https://medium.com/@jeffm.adler/a-quick-fix-way-to-go-full-terminal-on-a-mac-ef5ae6a26604?source=rss-fd1089d8862------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
