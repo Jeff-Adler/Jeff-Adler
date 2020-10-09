@@ -22,6 +22,7 @@
 ### Blogs posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Modeling multiply-linked tables in Rails with :source](https://medium.com/@jeffm.adler/modeling-multiply-linked-tables-in-rails-with-source-b3b0137d0179?source=rss-fd1089d8862------2)
 - [Nested attributes, fields_for, and datalists in Rails](https://medium.com/@jeffm.adler/nested-attributes-fields-for-and-datalists-in-rails-4838204556ff?source=rss-fd1089d8862------2)
 - [Using symmetrical self-joins in Ruby to build a thesaurus!](https://medium.com/@jeffm.adler/using-symmetrical-self-joins-in-ruby-to-build-a-thesaurus-f3760167d00e?source=rss-fd1089d8862------2)
