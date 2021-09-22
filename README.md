@@ -1,11 +1,11 @@
 <h1 align="center">Welcome! I'm Jeff Adler 🙇 </h1>
-<h3 align="center">Full stack web developer building apps that people love with code that people understand!</h3>
+<h3 align="center">Full Stack Web developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeff-adler" alt="jeff-adler" /> </p>
 
 <h3 align="center">Projects</h3>
 
-- 👨‍💻 All of my projects are available at [https://www.jeff-adler.com/](https://www.jeff-adler.com/)
+- 👨‍💻 A few of my projects are available at [https://www.jeff-adler.com/](https://www.jeff-adler.com/)
 
 - 📱 I’m currently working on an app to put mentorship in the palm of your hands through a swipe-based mobile app [MentorMe.](https://www.jeff-adler.com/project/2020-10-05-mentorme)
 
