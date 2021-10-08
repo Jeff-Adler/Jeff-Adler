@@ -1,4 +1,4 @@
-<h1 align="center">Welcome! I'm Jeff Adler 🙇 </h1>
+<h1 align="center">Welcome 🙇 </h1>
 <h3 align="center">Full Stack Web developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=jeff-adler" alt="jeff-adler" /> </p>
