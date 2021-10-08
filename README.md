@@ -11,7 +11,7 @@
 
 - 🏎️ To speed up your TypeScript-based backend development: [Express, TypeScript, TypeOrm, PostgreSQL Starter Pack](https://github.com/Jeff-Adler/Express_TypeScript_TypeORM_PSQL_StarterPack_v3)
 
-- 🚄 I also built a repo for quickly starting a React Native project with nested navigators: [React Native Nested Navigators Starter Pack](https://github.com/Jeff-Adler/react-native-navigation-example)
+- 🚄 And to speed up React Native project: [React Native Starter Pack](https://github.com/Jeff-Adler/react-native-navigation-example)
 
 ### Blogs posts
 
