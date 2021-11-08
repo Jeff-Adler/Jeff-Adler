@@ -19,7 +19,7 @@
 - [Modeling multiply-linked tables in Rails with :source](https://medium.com/@jeffm.adler/modeling-multiply-linked-tables-in-rails-with-source-b3b0137d0179?source=rss-fd1089d8862------2)
 - [Nested attributes, fields_for, and datalists in Rails](https://medium.com/@jeffm.adler/nested-attributes-fields-for-and-datalists-in-rails-4838204556ff?source=rss-fd1089d8862------2)
 - [Using symmetrical self-joins in Ruby to build a thesaurus!](https://medium.com/@jeffm.adler/using-symmetrical-self-joins-in-ruby-to-build-a-thesaurus-f3760167d00e?source=rss-fd1089d8862------2)
-- [Introducing: Midnight Commander (with added Enter key functionality!)](https://medium.com/@jeffm.adler/a-quick-fix-way-to-go-full-terminal-on-a-mac-ef5ae6a26604?source=rss-fd1089d8862------2)
+- [Introducing: Midnight Commander &lpar;with added Enter key functionality!&rpar;](https://medium.com/@jeffm.adler/a-quick-fix-way-to-go-full-terminal-on-a-mac-ef5ae6a26604?source=rss-fd1089d8862------2)
 <!-- BLOG-POST-LIST:END -->
 
 <p align="left">
